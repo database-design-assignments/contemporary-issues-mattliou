@@ -73,7 +73,7 @@ Once you have written your assignment, formatted it nicely in Markdown, and save
 1. Hover over the words `Source Control`. You will see a `...` icon appear - click it to see a menu.  In that menu, click `Commit`->`Commit`.  This logs the changes you've made to the Git project - remember Git is used to keep track of changes.
 1. Go to the same menu and click `Push` to submit your assignment - this uploads your updated files to the copy of your respository on GitHub.
 
-![Push changes to GitHub](./images/how_to_push_changes_to_github_from_vscode.png)
+![Push changes to GitHub](./images/how_to_push_ changes_to_github_from_vscode.png)
 
 That's it... you're done.
 
